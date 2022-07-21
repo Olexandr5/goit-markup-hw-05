@@ -602,6 +602,9 @@ modal-windows
 
 }
 
+.no-scroll {
+  overflow: hidden;
+}
 
 /* ======================
 2 pages
